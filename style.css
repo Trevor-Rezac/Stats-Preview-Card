@@ -52,6 +52,9 @@ p {
     align-items: center;
 }
 
+.right-section {
+    background-color: hsl(277, 64%, 61%);
+}
 
 .upper {
     width: 271px;
@@ -80,9 +83,7 @@ p {
 img {
     height: 100%;
     width: 100%;
-    /* filter: hue-rotate(277deg);
-    filter: saturate(64%);
-    filter: brightness(61%); */
+    filter: opacity(65%) 
 }
 
 
